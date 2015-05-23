@@ -18,4 +18,4 @@
 	$id=$id.'_ce';
 
 ?>
-<?php wp_editor( $value, $id, $editor_settings; ?> 
+<?php wp_editor( $value, $id, $editor_settings =; ?> 
